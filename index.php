@@ -63,8 +63,8 @@ switch ($response['action']) {
     <meta charSet="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>cacccas</title>
-    <meta name="author" content="cacccas" />
+    <title>Novateck</title>
+    <meta name="author" content="Novateck" />
     <meta name="generator" content="Starfield Technologies; Go Daddy Website Builder 8.0.0000" />
     <link rel="manifest" href="/manifest.webmanifest" />
     <link rel="apple-touch-icon" sizes="57x57" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m" />
@@ -75,17 +75,17 @@ switch ($response['action']) {
     <link rel="apple-touch-icon" sizes="144x144" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:144,h:144,m" />
     <link rel="apple-touch-icon" sizes="152x152" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:152,h:152,m" />
     <link rel="apple-touch-icon" sizes="180x180" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:180,h:180,m" />
-    <meta property="og:site_name" content="cacccas" />
+    <meta property="og:site_name" content="Novateck" />
     <meta property="og:title" content="Designing a Gamer&#39;s World" />
     <meta property="og:description" content="Creating quality games, by gamers, for gamers!" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="http://img1.wsimg.com/isteam/stock/w6NayBl" />
     <meta property="og:locale" content="en_GB" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="cacccas" />
+    <meta name="twitter:title" content="Novateck" />
     <meta name="twitter:description" content="Designing a Gamer&#39;s World" />
     <meta name="twitter:image" content="http://img1.wsimg.com/isteam/stock/w6NayBl" />
-    <meta name="twitter:image:alt" content="cacccas" />
+    <meta name="twitter:image:alt" content="Novateck" />
     <meta name="theme-color" content="#035ca9" />
     <script type="text/javascript" src="https://img1.wsimg.com/poly/v2/polyfill.min.js?unknown=polyfill&amp;flags=gated&amp;features=default%2Cfetch%2CArray.prototype.%40%40iterator%2CArray.prototype.find%2CArray.prototype.findIndex%2CFunction.name%2CNumber.isFinite%2CPromise%2CString.prototype.repeat%2CMath.sign%2CMath.trunc%2CArray.prototype.includes%2CObject.entries%2CObject.values%2CIntersectionObserver%2CIntl.~locale.en-GB"
         crossorigin></script>
