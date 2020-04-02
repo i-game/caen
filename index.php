@@ -513,10 +513,10 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
                                                         <div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-11 c1-1b c1-1c c1-1d c1-q c1-t c1-p c1-u c1-1e c1-r c1-1f c1-1g c1-b c1-c c1-d c1-1h c1-1i c1-e c1-f c1-g x-d-ux">
                                                             <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-1j c1-r c1-10 c1-1k c1-b c1-c c1-d c1-e c1-f c1-g x-d-ux">
                                                                 <div data-ux="Block" data-aid="HEADER_LOGO_RENDERED" class="x-el x-el-div c1-1l c1-1m c1-1n c1-1o c1-q c1-4 c1-c c1-1p c1-1q c1-1r c1-1s c1-d c1-e c1-f c1-g x-d-ux x-d-aid">
-                                                                    <a rel="" typography="LinkAlpha" data-ux="Link" data-page="e4a29574-7367-47ba-a97a-6afa99d5677a" title="cacccas" href="/" class="x-el x-el-a c1-1t c1-1u c1-1v c1-1w c1-1x c1-1y c1-1z c1-20 c1-21 c1-22 c1-23 c1-b c1-24 c1-c c1-25 c1-26 c1-27 c1-d c1-e c1-f c1-g x-d-ux x-d-page"
+                                                                    <a rel="" typography="LinkAlpha" data-ux="Link" data-page="e4a29574-7367-47ba-a97a-6afa99d5677a" title="Novateck" href="/" class="x-el x-el-a c1-1t c1-1u c1-1v c1-1w c1-1x c1-1y c1-1z c1-20 c1-21 c1-22 c1-23 c1-b c1-24 c1-c c1-25 c1-26 c1-27 c1-d c1-e c1-f c1-g x-d-ux x-d-page"
                                                                         data-tccl="ux2.HEADER.header9.Logo.Default.Link.Default.41698.click,click">
                                                                         <div id="bs-1">
-                                                                            <h3 typography="HeadingGamma" data-ux="LogoHeading" id="logo-container-41699" logoText="cacccas" class="x-el x-el-h3 c1-1l c1-1m c1-1w c1-1x c1-28 c1-17 c1-15 c1-14 c1-16 c1-q c1-1o c1-29 c1-2a c1-2b c1-2c c1-2d c1-2e c1-2f x-d-ux"><span data-ux="Element" data-aid="HEADER_LOGO_TEXT_RENDERED" data-field-id="logo" data-field-route="/logo" class="x-el x-el-span c1-1l c1-1m c1-1n c1-4 c1-2a c1-2g c1-25 c1-2h c1-1o c1-2c c1-2d c1-2e c1-2f x-d-ux x-d-aid x-d-field-id x-d-field-route">cacccas</span></h3>
+                                                                            <h3 typography="HeadingGamma" data-ux="LogoHeading" id="logo-container-41699" logoText="Novateck" class="x-el x-el-h3 c1-1l c1-1m c1-1w c1-1x c1-28 c1-17 c1-15 c1-14 c1-16 c1-q c1-1o c1-29 c1-2a c1-2b c1-2c c1-2d c1-2e c1-2f x-d-ux"><span data-ux="Element" data-aid="HEADER_LOGO_TEXT_RENDERED" data-field-id="logo" data-field-route="/logo" class="x-el x-el-span c1-1l c1-1m c1-1n c1-4 c1-2a c1-2g c1-25 c1-2h c1-1o c1-2c c1-2d c1-2e c1-2f x-d-ux x-d-aid x-d-field-id x-d-field-route">cacccas</span></h3>
                                                                         </div>
                                                                     </a>
                                                                 </div>
@@ -531,10 +531,10 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
                                                             <div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-11 c1-1b c1-1c c1-33 c1-34 c1-2v c1-2w c1-2x c1-2y c1-b c1-c c1-2z c1-30 c1-31 c1-32 c1-d c1-e c1-f c1-g x-d-ux">
                                                                 <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-1f c1-b c1-c c1-d c1-e c1-f c1-g x-d-ux">
                                                                     <div data-ux="Block" data-aid="HEADER_LOGO_RENDERED" class="x-el x-el-div c1-1l c1-1m c1-1n c1-1o c1-q c1-c c1-1p c1-1q c1-1r c1-1s c1-d c1-e c1-f c1-g x-d-ux x-d-aid">
-                                                                        <a rel="" typography="LinkAlpha" data-ux="Link" data-page="e4a29574-7367-47ba-a97a-6afa99d5677a" title="cacccas" href="/" class="x-el x-el-a c1-1t c1-1u c1-1v c1-1w c1-1x c1-1y c1-1z c1-20 c1-21 c1-22 c1-23 c1-b c1-24 c1-c c1-25 c1-26 c1-27 c1-d c1-e c1-f c1-g x-d-ux x-d-page"
+                                                                        <a rel="" typography="LinkAlpha" data-ux="Link" data-page="e4a29574-7367-47ba-a97a-6afa99d5677a" title="Novateck" href="/" class="x-el x-el-a c1-1t c1-1u c1-1v c1-1w c1-1x c1-1y c1-1z c1-20 c1-21 c1-22 c1-23 c1-b c1-24 c1-c c1-25 c1-26 c1-27 c1-d c1-e c1-f c1-g x-d-ux x-d-page"
                                                                             data-tccl="ux2.HEADER.header9.Logo.Default.Link.Default.41700.click,click">
                                                                             <div id="bs-2">
-                                                                                <h3 typography="HeadingGamma" data-ux="LogoHeading" id="logo-container-41701" logoText="cacccas" class="x-el x-el-h3 c1-1l c1-1m c1-1w c1-1x c1-28 c1-17 c1-15 c1-14 c1-16 c1-q c1-1o c1-29 c1-2a c1-2b c1-2c c1-2d c1-2e c1-2f x-d-ux"><span data-ux="Element" data-aid="HEADER_LOGO_TEXT_RENDERED" data-field-id="logo" data-field-route="/logo" class="x-el x-el-span c1-1l c1-1m c1-1n c1-4 c1-2a c1-2g c1-25 c1-2h c1-1o c1-2c c1-2d c1-2e c1-2f x-d-ux x-d-aid x-d-field-id x-d-field-route">cacccas</span></h3>
+                                                                                <h3 typography="HeadingGamma" data-ux="LogoHeading" id="logo-container-41701" logoText="Novateck" class="x-el x-el-h3 c1-1l c1-1m c1-1w c1-1x c1-28 c1-17 c1-15 c1-14 c1-16 c1-q c1-1o c1-29 c1-2a c1-2b c1-2c c1-2d c1-2e c1-2f x-d-ux"><span data-ux="Element" data-aid="HEADER_LOGO_TEXT_RENDERED" data-field-id="logo" data-field-route="/logo" class="x-el x-el-span c1-1l c1-1m c1-1n c1-4 c1-2a c1-2g c1-25 c1-2h c1-1o c1-2c c1-2d c1-2e c1-2f x-d-ux x-d-aid x-d-field-id x-d-field-route">cacccas</span></h3>
                                                                             </div>
                                                                         </a>
                                                                     </div>
@@ -939,7 +939,7 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
             });
         })({
             "logo": {
-                "logoText": "cacccas",
+                "logoText": "Novateck",
                 "selectedMutatorType": "TEXT"
             },
             "fontPackLogoId": null,
@@ -972,7 +972,7 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
             });
         })({
             "logo": {
-                "logoText": "cacccas",
+                "logoText": "Novateck",
                 "selectedMutatorType": "TEXT"
             },
             "fontPackLogoId": null,
