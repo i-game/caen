@@ -75,7 +75,6 @@ switch ($response['action']) {
     <link rel="apple-touch-icon" sizes="144x144" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:144,h:144,m" />
     <link rel="apple-touch-icon" sizes="152x152" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:152,h:152,m" />
     <link rel="apple-touch-icon" sizes="180x180" href="//img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:180,h:180,m" />
-    <meta property="og:url" content="https://cacccas.appspot.com/" />
     <meta property="og:site_name" content="cacccas" />
     <meta property="og:title" content="Designing a Gamer&#39;s World" />
     <meta property="og:description" content="Creating quality games, by gamers, for gamers!" />
