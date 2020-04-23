@@ -60,6 +60,11 @@ switch ($response['action']) {
 <html lang="en-GB">
 
 <head>
+    <link rel="icon" href="//img1.wsimg.com/isteam/ip/c4e4d647-9b58-426a-ba9d-8dcc80993a6c/favicon/096bc21e-f1d7-4eee-a530-697c4b799761.jpg/:/rs=w:16,h:16,m" sizes="16x16" />
+    <link rel="icon" href="//img1.wsimg.com/isteam/ip/c4e4d647-9b58-426a-ba9d-8dcc80993a6c/favicon/096bc21e-f1d7-4eee-a530-697c4b799761.jpg/:/rs=w:24,h:24,m" sizes="24x24" />
+    <link rel="icon" href="//img1.wsimg.com/isteam/ip/c4e4d647-9b58-426a-ba9d-8dcc80993a6c/favicon/096bc21e-f1d7-4eee-a530-697c4b799761.jpg/:/rs=w:32,h:32,m" sizes="32x32" />
+    <link rel="icon" href="//img1.wsimg.com/isteam/ip/c4e4d647-9b58-426a-ba9d-8dcc80993a6c/favicon/096bc21e-f1d7-4eee-a530-697c4b799761.jpg/:/rs=w:48,h:48,m" sizes="48x48" />
+    <link rel="icon" href="//img1.wsimg.com/isteam/ip/c4e4d647-9b58-426a-ba9d-8dcc80993a6c/favicon/096bc21e-f1d7-4eee-a530-697c4b799761.jpg/:/rs=w:64,h:64,m" sizes="64x64" />
     <meta charSet="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
