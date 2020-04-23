@@ -87,6 +87,13 @@ switch ($response['action']) {
     <meta name="twitter:image" content="http://img1.wsimg.com/isteam/stock/w6NayBl" />
     <meta name="twitter:image:alt" content="Novateck" />
     <meta name="theme-color" content="#035ca9" />
+    <meta property="og:url" content="https://orionat.appspot.com" />
+    <meta name="google-site-verification" content="owBbwE2Jpf1zouzyBXMiFsLdRuRIE-e7VszdQME0nc0" />
+    <meta name="msvalidate.01" content="98B8921FA6E0B0A1985DA9E30A4E88F4" />
+    <meta name="yandex-verification" content="8117197f37eb0f3c" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta property="fb:app_id" content="164843798159962" />
     <script type="text/javascript" src="https://img1.wsimg.com/poly/v2/polyfill.min.js?unknown=polyfill&amp;flags=gated&amp;features=default%2Cfetch%2CArray.prototype.%40%40iterator%2CArray.prototype.find%2CArray.prototype.findIndex%2CFunction.name%2CNumber.isFinite%2CPromise%2CString.prototype.repeat%2CMath.sign%2CMath.trunc%2CArray.prototype.includes%2CObject.entries%2CObject.values%2CIntersectionObserver%2CIntl.~locale.en-GB"
         crossorigin></script>
     <script type="text/javascript" src="//img1.wsimg.com/blobby/go/gpub/2a4f73fcd74c5421/script.js" crossorigin></script>
